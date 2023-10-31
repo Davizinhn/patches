@@ -1,4 +1,4 @@
 Version 0.6.2
---> Test;
---> Test;
---> Test.
+--> World 2 fix;
+--> Some level fixes;
+--> In-game patch notes.
