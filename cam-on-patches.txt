@@ -1,4 +1,2 @@
-Version 0.6.2
---> World 2 fix;
---> Some level fixes;
---> In-game patch notes.
+Version 0.6.2.5
+--> In-game patch notes fix.
